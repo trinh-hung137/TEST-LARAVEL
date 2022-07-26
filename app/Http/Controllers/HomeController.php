@@ -9,7 +9,7 @@ class HomeController extends Controller
 {
      public function testFunction()
     {
-        return 1;
+        return 2;
     }
     public function tesAbc()
     {
